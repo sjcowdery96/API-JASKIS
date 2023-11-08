@@ -5,7 +5,7 @@
 // GETTING STARTED
 // 1. Create a database called jaskis
 
-db.createCollection("jaskis")
+// use "jaskis"
 
 // 2. Create a collection called bounties
 
